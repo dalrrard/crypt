@@ -7,3 +7,4 @@ for i in range(1, len(sentence)+1):
     translate += sentence[-i]
 
 print(translate)
+print('test')
